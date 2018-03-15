@@ -142,7 +142,7 @@ main about program language and consensus. top 200 At present.
 | BridgeCoin |  |  |  | https://www.crypto-bridge.org/ |
 | Asch | javascript | dpos | https://github.com/AschPlatform | https://www.asch.io/ |
 | Genaro Network |  |  | https://github.com/GenaroNetwork | https://genaro.network/en |
-| ZenCash |  |  | https://github.com/ZencashOfficial | https://zencash.com/ |
+| ZenCash | c++ | pow | https://github.com/ZencashOfficial | https://zencash.com/ |
 | Pura |  |  | https://github.com/PURAcore/ | http://www.pura.one/ |
 | High Performa... |  |  |  | http://www.gxn.io/ |
 | Edgeless |  |  | https://github.com/EdgelessCasino | https://edgeless.io/ |
@@ -151,7 +151,7 @@ main about program language and consensus. top 200 At present.
 | DEW |  |  |  | https://dew.one/ |
 | Envion |  |  |  | https://www.envion.org |
 | BLOCKv |  |  | https://github.com/BLOCKvIO/documentation | https://blockv.io/ |
-| Nuls |  |  | https://github.com/nuls-io/nuls | https://nuls.io/ |
+| Nuls | java |  | https://github.com/nuls-io/nuls | https://nuls.io/ |
 | SophiaTX |  |  |  | https://www.sophiatx.com/ |
 | MediBloc |  |  | https://github.com/Medibloc | https://medibloc.org/en/ |
 | Fusion |  |  | https://github.com/FUSIONFoundation | https://fusion.org/ |
