@@ -3,34 +3,34 @@ main about program language and consensus. top 200 At present.
 
 | project name | program language | consensus | GitHub link    |website|
 | ------------ | ---------------- | --------- | --------------------------------------- | ---------------- |
-| Bitcoin |  |  | https://github.com/bitcoin/ | https://bitcoin.org/ |
-| Ethereum |  |  | https://github.com/ethereum | https://www.ethereum.org/ |
-| Ripple |  |  | https://github.com/ripple | https://ripple.com/ |
-| Bitcoin Cash |  |  | https://github.com/bitcoincashorg/ | https://www.bitcoincash.org/ |
-| Litecoin |  |  | https://github.com/litecoin-project/litecoin | https://litecoin.com |
-| Cardano |  |  | https://github.com/input-output-hk/cardano-sl/ | https://www.cardano.org |
-| NEO |  |  | https://github.com/neo-project | https://neo.org/ |
-| Stellar |  |  | https://github.com/stellar | https://www.stellar.org |
-| EOS |  |  | https://github.com/eosio | https://eos.io/ |
+| Bitcoin | c++ | pow | https://github.com/bitcoin/ | https://bitcoin.org/ |
+| Ethereum | go | pow | https://github.com/ethereum | https://www.ethereum.org/ |
+| Ripple | c++ |  | https://github.com/ripple | https://ripple.com/ |
+| Bitcoin Cash | c++ | pow | https://github.com/bitcoincashorg/ | https://www.bitcoincash.org/ |
+| Litecoin | c++ | pow | https://github.com/litecoin-project/litecoin | https://litecoin.com |
+| Cardano | haskell | pos | https://github.com/input-output-hk/cardano-sl/ | https://www.cardano.org |
+| NEO | c# | dbft | https://github.com/neo-project | https://neo.org/ |
+| Stellar | c |  | https://github.com/stellar | https://www.stellar.org |
+| EOS | c++ | dpos | https://github.com/eosio | https://eos.io/ |
 | NEM |  |  | https://github.com/NemProject | http://nem.io |
-| Dash |  |  | https://github.com/dashpay/dash | https://www.dash.org/ |
+| Dash | c++ | pow | https://github.com/dashpay/dash | https://www.dash.org/ |
 | Monero |  |  | https://github.com/monero-project/monero | http://www.monero.cc |
 | IOTA |  |  | https://github.com/iotaledger | https://iota.org/ |
 | Tether |  |  |  | https://tether.to |
 | TRON |  |  | https://github.com/tronprotocol | https://tron.network/ |
 | VeChain |  |  |  | https://www.vechain.org/ |
-| Ethereum Classic |  |  | https://github.com/ethereumproject | https://ethereumclassic.github.io/ |
+| Ethereum Classic | go | pow | https://github.com/ethereumproject | https://ethereumclassic.github.io/ |
 | Nano |  |  | https://github.com/nanocurrency | http://nano.org/en |
-| Lisk |  |  | https://github.com/LiskHQ/ | https://lisk.io/ |
+| Lisk | js | dpos | https://github.com/LiskHQ/ | https://lisk.io/ |
 | OmiseGO |  |  | https://github.com/omise/omise-go | https://omg.omise.co/ |
-| Qtum |  |  | https://github.com/qtumproject/qtum/ | https://qtum.org/ |
+| Qtum | c++ | pow | https://github.com/qtumproject/qtum/ | https://qtum.org/ |
 | Bitcoin Gold |  |  | https://github.com/BTCGPU/BTCGPU | https://bitcoingold.org/ |
 | ICON |  |  | https://github.com/theloopkr/loopchain | https://www.icon.foundation/ |
 | Binance Coin |  |  |  | https://www.binance.com/ |
-| Zcash |  |  | https://github.com/zcash/zcash | https://z.cash/ |
+| Zcash | c++ | pow | https://github.com/zcash/zcash | https://z.cash/ |
 | DigixDAO |  |  | https://github.com/digixglobal | https://digix.io/ |
 | Populous |  |  | https://github.com/bitpopulous | http://populous.co/ |
-| Steem |  |  | https://github.com/steemit/steem | https://steem.io/ |
+| Steem | c++ | dpos | https://github.com/steemit/steem | https://steem.io/ |
 | Waves |  |  | https://github.com/wavesplatform/ | https://wavesplatform.com/ |
 | Bytecoin |  |  | https://github.com/bcndev | https://bytecoin.org/ |
 | Maker |  |  |  | https://makerdao.com/ |
@@ -40,7 +40,7 @@ main about program language and consensus. top 200 At present.
 | Dogecoin |  |  | https://github.com/dogecoin/dogecoin | http://dogecoin.com/ |
 | Siacoin |  |  | https://github.com/NebulousLabs/Sia | https://sia.tech/ |
 | Status |  |  | https://github.com/status-im | http://status.im/ |
-| Aeternity |  |  | https://github.com/aeternity | https://www.aeternity.com/ |
+| Aeternity | erlang | dpos | https://github.com/aeternity | https://www.aeternity.com/ |
 | BitShares |  |  | https://github.com/bitshares | https://bitshares.org |
 | Decred |  |  | https://github.com/decred | https://www.decred.org/ |
 | Augur |  |  | https://github.com/AugurProject | http://www.augur.net/ |
