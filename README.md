@@ -12,81 +12,81 @@ main about program language and consensus. top 200 At present.
 | NEO | c# | dbft | https://github.com/neo-project | https://neo.org/ |
 | Stellar | c |  | https://github.com/stellar | https://www.stellar.org |
 | EOS | c++ | dpos | https://github.com/eosio | https://eos.io/ |
-| NEM |  |  | https://github.com/NemProject | http://nem.io |
+| NEM | java |  | https://github.com/NemProject | http://nem.io |
 | Dash | c++ | pow | https://github.com/dashpay/dash | https://www.dash.org/ |
-| Monero |  |  | https://github.com/monero-project/monero | http://www.monero.cc |
-| IOTA |  |  | https://github.com/iotaledger | https://iota.org/ |
+| Monero | c++ | pow | https://github.com/monero-project/monero | http://www.monero.cc |
+| IOTA | java | dag | https://github.com/iotaledger | https://iota.org/ |
 | Tether |  |  |  | https://tether.to |
-| TRON |  |  | https://github.com/tronprotocol | https://tron.network/ |
+| TRON | java |  | https://github.com/tronprotocol | https://tron.network/ |
 | VeChain |  |  |  | https://www.vechain.org/ |
 | Ethereum Classic | go | pow | https://github.com/ethereumproject | https://ethereumclassic.github.io/ |
-| Nano |  |  | https://github.com/nanocurrency | http://nano.org/en |
-| Lisk | js | dpos | https://github.com/LiskHQ/ | https://lisk.io/ |
-| OmiseGO |  |  | https://github.com/omise/omise-go | https://omg.omise.co/ |
-| Qtum | c++ | pow | https://github.com/qtumproject/qtum/ | https://qtum.org/ |
-| Bitcoin Gold |  |  | https://github.com/BTCGPU/BTCGPU | https://bitcoingold.org/ |
-| ICON |  |  | https://github.com/theloopkr/loopchain | https://www.icon.foundation/ |
+| Nano | c++ |  | https://github.com/nanocurrency | http://nano.org/en |
+| Lisk | javascript | dpos | https://github.com/LiskHQ/ | https://lisk.io/ |
+| OmiseGO | go |  | https://github.com/omise/omise-go | https://omg.omise.co/ |
+| Qtum | c++ | pos | https://github.com/qtumproject/qtum/ | https://qtum.org/ |
+| Bitcoin Gold | c++ | pow | https://github.com/BTCGPU/BTCGPU | https://bitcoingold.org/ |
+| ICON | python | bft | https://github.com/theloopkr/loopchain | https://www.icon.foundation/ |
 | Binance Coin |  |  |  | https://www.binance.com/ |
 | Zcash | c++ | pow | https://github.com/zcash/zcash | https://z.cash/ |
-| DigixDAO |  |  | https://github.com/digixglobal | https://digix.io/ |
+| DigixDAO | solidity |  | https://github.com/digixglobal | https://digix.io/ |
 | Populous |  |  | https://github.com/bitpopulous | http://populous.co/ |
 | Steem | c++ | dpos | https://github.com/steemit/steem | https://steem.io/ |
-| Waves |  |  | https://github.com/wavesplatform/ | https://wavesplatform.com/ |
-| Bytecoin |  |  | https://github.com/bcndev | https://bytecoin.org/ |
+| Waves | scala |  | https://github.com/wavesplatform/ | https://wavesplatform.com/ |
+| Bytecoin | c++ |  | https://github.com/bcndev | https://bytecoin.org/ |
 | Maker |  |  |  | https://makerdao.com/ |
-| Stratis |  |  | https://github.com/stratisproject | http://stratisplatform.com/ |
-| Verge |  |  | https://github.com/vergecurrency | http://vergecurrency.com/ |
-| RChain |  |  | https://github.com/rchain/ | https://www.rchain.coop/ |
-| Dogecoin |  |  | https://github.com/dogecoin/dogecoin | http://dogecoin.com/ |
-| Siacoin |  |  | https://github.com/NebulousLabs/Sia | https://sia.tech/ |
+| Stratis | c++ |  | https://github.com/stratisproject | http://stratisplatform.com/ |
+| Verge | c++ | pow | https://github.com/vergecurrency | http://vergecurrency.com/ |
+| RChain | c++ | pos | https://github.com/rchain/ | https://www.rchain.coop/ |
+| Dogecoin | c++ | pow | https://github.com/dogecoin/dogecoin | http://dogecoin.com/ |
+| Siacoin | go | pow | https://github.com/NebulousLabs/Sia | https://sia.tech/ |
 | Status |  |  | https://github.com/status-im | http://status.im/ |
 | Aeternity | erlang | dpos | https://github.com/aeternity | https://www.aeternity.com/ |
-| BitShares |  |  | https://github.com/bitshares | https://bitshares.org |
-| Decred |  |  | https://github.com/decred | https://www.decred.org/ |
-| Augur |  |  | https://github.com/AugurProject | http://www.augur.net/ |
-| Bytom |  |  | https://github.com/Bytom/bytom | http://bytom.io/ |
+| BitShares | c++ | dpos | https://github.com/bitshares | https://bitshares.org |
+| Decred | go |  | https://github.com/decred | https://www.decred.org/ |
+| Augur | typescript |  | https://github.com/AugurProject | http://www.augur.net/ |
+| Bytom | go | pow | https://github.com/Bytom/bytom | http://bytom.io/ |
 | Waltonchain |  |  |  | http://www.waltonchain.org/ |
 | Komodo |  |  | https://github.com/KomodoPlatform | https://komodoplatform.com/ |
 | Ark |  |  | https://github.com/ArkEcosystem | http://ark.io/ |
 | Ardor |  |  | https://bitbucket.org/Jelurida/ardor/src | https://www.ardorplatform.org/ |
-| Zilliqa |  |  | https://github.com/Zilliqa/Zilliqa | https://www.zilliqa.com/ |
+| Zilliqa | c++ | pow | https://github.com/Zilliqa/Zilliqa | https://www.zilliqa.com/ |
 | Veritaseum |  |  | https://github.com/veritaseum | http://veritas.veritaseum.com/ |
 | Electroneum |  |  | https://github.com/electroneum | http://electroneum.com/ |
-| 0x |  |  | https://github.com/0xProject | https://0xproject.com/ |
+| 0x | typescript |  | https://github.com/0xProject | https://0xproject.com/ |
 | Cryptonex |  |  | https://github.com/Cryptonex | https://cryptonex.org/ |
 | KuCoin Shares |  |  |  | https://www.kucoin.com/ |
 | Aion |  |  | https://github.com/aionnetwork | https://aion.network/ |
-| Hshare |  |  | https://github.com/HcashOrg/hcashd | https://h.cash/ |
+| Hshare | go | pow,pos | https://github.com/HcashOrg/hcashd | https://h.cash/ |
 | MonaCoin |  |  | https://github.com/monacoinproject/monacoin | http://monacoin.org |
 | DigiByte |  |  | https://github.com/digibyte | http://www.digibyte.io/ |
 | PIVX |  |  | https://github.com/PIVX-Project/PIVX/ | http://www.pivx.org |
 | Basic Attenti... |  |  |  | https://basicattentiontoken.org/ |
 | Factom |  |  | https://github.com/FactomProject | http://factom.org/ |
 | QASH |  |  |  | https://liquid.plus/ |
-| Golem |  |  | https://github.com/golemfactory/golem | https://golem.network/ |
+| Golem | python |  | https://github.com/golemfactory/golem | https://golem.network/ |
 | Ethos |  |  |  | https://www.ethos.io/ |
 | Revain |  |  | https://github.com/Revain | https://revain.org/ |
-| Dragonchain |  |  | https://github.com/dragonchain/dragonchain | https://dragonchain.com/ |
+| Dragonchain | python |  | https://github.com/dragonchain/dragonchain | https://dragonchain.com/ |
 | Gas |  |  |  | https://neo.org/ |
-| Syscoin |  |  | https://github.com/syscoin/ | http://syscoin.org |
-| Nebulas |  |  | https://github.com/nebulasio | https://nebulas.io/ |
-| Loopring |  |  | https://github.com/loopring | https://loopring.org |
+| Syscoin | c++ | pow | https://github.com/syscoin/ | http://syscoin.org |
+| Nebulas | go | pos | https://github.com/nebulasio | https://nebulas.io/ |
+| Loopring | go |  | https://github.com/loopring | https://loopring.org |
 | FunFair |  |  |  | https://funfair.io/ |
-| GXChain |  |  | https://github.com/gxchain | https://gxs.gxb.io/ |
-| ReddCoin |  |  | https://github.com/reddcoin-project/reddcoin | http://www.reddcoin.com/ |
+| GXChain | c++ | dpos | https://github.com/gxchain | https://gxs.gxb.io/ |
+| ReddCoin | c++ | pow | https://github.com/reddcoin-project/reddcoin | http://www.reddcoin.com/ |
 | ChainLink |  |  |  | https://smartcontract.com/ |
-| IOStoken |  |  |  | http://iost.io/ |
+| IOStoken | go | pos |  | http://iost.io/ |
 | Dentacoin |  |  | https://github.com/Dentacoin | http://www.dentacoin.com/ |
 | SALT |  |  |  | https://www.saltlending.com/ |
 | ZCoin |  |  | https://github.com/zcoinofficial/zcoin/ | https://zcoin.io |
-| aelf |  |  | https://github.com/aelfProject | http://aelf.io/ |
+| aelf | c# | dpos | https://github.com/aelfProject | http://aelf.io/ |
 | Kin |  |  |  | http://kinecosystem.org/ |
 | SmartCash |  |  | https://github.com/SmartCash/smartcash | https://smartcash.cc/ |
 | Kyber Network |  |  | https://github.com/kybernetwork | https://kyber.network/ |
 | Power Ledger |  |  |  | https://powerledger.io/ |
-| Byteball Bytes |  |  | https://github.com/byteball/byteball | https://byteball.org/ |
+| Byteball Bytes | javascript | dag | https://github.com/byteball/byteball | https://byteball.org/ |
 | Polymath |  |  | https://github.com/PolymathNetwork | https://www.polymath.network/ |
-| Nxt |  |  | https://bitbucket.org/JeanLucPicard/nxt/src | https://nxt.org/ |
+| Nxt | java | pos | https://bitbucket.org/JeanLucPicard/nxt/src | https://nxt.org/ |
 | Bancor |  |  | https://github.com/bancorprotocol/ | https://bancor.network/ |
 | Emercoin |  |  | https://github.com/emercoin/ | http://emercoin.com/ |
 | MaidSafeCoin |  |  | https://github.com/maidsafe | http://maidsafe.net |
@@ -113,11 +113,11 @@ main about program language and consensus. top 200 At present.
 | XPA |  |  |  | https://xpa.io/ |
 | Monaco |  |  |  | https://www.mona.co/ |
 | Dynamic Tradi... |  |  |  | http://www.tokens.net/ |
-| Achain |  |  | https://github.com/Achain-Dev/Achain | https://www.achain.com/ |
+| Achain | c++ | dpos | https://github.com/Achain-Dev/Achain | https://www.achain.com/ |
 | Quantstamp |  |  | https://github.com/quantstamp | https://quantstamp.com/ |
 | GameCredits |  |  |  | http://gamecredits.com |
 | Theta Token |  |  | https://github.com/thetatoken | https://www.thetatoken.org/ |
-| Raiden Networ... |  |  | https://github.com/raiden-network/raiden/ | https://raiden.network/ |
+| Raiden Networ... | python |  | https://github.com/raiden-network/raiden/ | https://raiden.network/ |
 | MinexCoin |  |  | https://github.com/minexcoin/minexcoin | https://minexcoin.com/ |
 | Genesis Vision |  |  | https://github.com/GenesisVision | https://genesis.vision/ |
 | Enjin Coin |  |  | https://github.com/enjin/contracts | https://www.enjin.com/ |
@@ -140,7 +140,7 @@ main about program language and consensus. top 200 At present.
 | DigitalNote |  |  | https://github.com/xdn-project/ | http://digitalnote.org/ |
 | WAX |  |  | https://github.com/waxio | https://wax.io/ |
 | BridgeCoin |  |  |  | https://www.crypto-bridge.org/ |
-| Asch |  |  | https://github.com/AschPlatform | https://www.asch.io/ |
+| Asch | javascript | dpos | https://github.com/AschPlatform | https://www.asch.io/ |
 | Genaro Network |  |  | https://github.com/GenaroNetwork | https://genaro.network/en |
 | ZenCash |  |  | https://github.com/ZencashOfficial | https://zencash.com/ |
 | Pura |  |  | https://github.com/PURAcore/ | http://www.pura.one/ |
@@ -163,7 +163,7 @@ main about program language and consensus. top 200 At present.
 | Bibox Token |  |  | https://github.com/bibox365/bixtoken | https://www.bibox.com/ |
 | POA Network |  |  | https://github.com/poanetwork | https://poa.network/ |
 | SpaceChain |  |  |  |  |
-| SONM |  |  | https://github.com/sonm-io | https://sonm.io/ |
+| SONM | go |  | https://github.com/sonm-io | https://sonm.io/ |
 | Jibrel Network |  |  | https://github.com/jibrelnetwork | https://jibrel.network/ |
 | SpankChain |  |  | https://github.com/spankchain | https://spankchain.com/ |
 | Telcoin |  |  | https://github.com/telcoin | https://www.telco.in/ |
@@ -194,7 +194,7 @@ main about program language and consensus. top 200 At present.
 | UTRUST |  |  |  | https://utrust.io/ |
 | Burst |  |  | https://github.com/PoC-Consortium | https://www.burst-coin.org |
 | TaaS |  |  |  | https://taas.fund/ |
-| Ink |  |  | https://github.com/inklabsfoundation | https://ink.one/ |
+| Ink | go |  | https://github.com/inklabsfoundation | https://ink.one/ |
 | SingularDTV |  |  |  | https://singulardtv.com/ |
 | LBRY Credits |  |  | https://github.com/lbryio | https://lbry.io/ |
 | HTMLCOIN |  |  | https://github.com/HTMLCOIN | http://www.htmlcoin.com/ |
