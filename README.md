@@ -15,7 +15,7 @@ main about program language and consensus. top 200 At present.
 | NEM | java |  | https://github.com/NemProject | http://nem.io |
 | Dash | c++ | pow | https://github.com/dashpay/dash | https://www.dash.org/ |
 | Monero | c++ | pow | https://github.com/monero-project/monero | http://www.monero.cc |
-| IOTA | java | dag | https://github.com/iotaledger | https://iota.org/ |
+| IOTA | java |  | https://github.com/iotaledger | https://iota.org/ |
 | Tether |  |  |  | https://tether.to |
 | TRON | java |  | https://github.com/tronprotocol | https://tron.network/ |
 | VeChain |  |  |  | https://www.vechain.org/ |
@@ -48,7 +48,7 @@ main about program language and consensus. top 200 At present.
 | Waltonchain |  |  |  | http://www.waltonchain.org/ |
 | Komodo |  |  | https://github.com/KomodoPlatform | https://komodoplatform.com/ |
 | Ark |  |  | https://github.com/ArkEcosystem | http://ark.io/ |
-| Ardor |  |  | https://bitbucket.org/Jelurida/ardor/src | https://www.ardorplatform.org/ |
+| Ardor | java | n | https://bitbucket.org/Jelurida/ardor/src | https://www.ardorplatform.org/ |
 | Zilliqa | c++ | pow | https://github.com/Zilliqa/Zilliqa | https://www.zilliqa.com/ |
 | Veritaseum |  |  | https://github.com/veritaseum | http://veritas.veritaseum.com/ |
 | Electroneum |  |  | https://github.com/electroneum | http://electroneum.com/ |
@@ -59,7 +59,7 @@ main about program language and consensus. top 200 At present.
 | Hshare | go | pow,pos | https://github.com/HcashOrg/hcashd | https://h.cash/ |
 | MonaCoin |  |  | https://github.com/monacoinproject/monacoin | http://monacoin.org |
 | DigiByte |  |  | https://github.com/digibyte | http://www.digibyte.io/ |
-| PIVX |  |  | https://github.com/PIVX-Project/PIVX/ | http://www.pivx.org |
+| PIVX | c++ | pow | https://github.com/PIVX-Project/PIVX/ | http://www.pivx.org |
 | Basic Attenti... |  |  |  | https://basicattentiontoken.org/ |
 | Factom |  |  | https://github.com/FactomProject | http://factom.org/ |
 | QASH |  |  |  | https://liquid.plus/ |
@@ -84,9 +84,9 @@ main about program language and consensus. top 200 At present.
 | SmartCash |  |  | https://github.com/SmartCash/smartcash | https://smartcash.cc/ |
 | Kyber Network |  |  | https://github.com/kybernetwork | https://kyber.network/ |
 | Power Ledger |  |  |  | https://powerledger.io/ |
-| Byteball Bytes | javascript | dag | https://github.com/byteball/byteball | https://byteball.org/ |
+| Byteball Bytes | javascript |  | https://github.com/byteball/byteball | https://byteball.org/ |
 | Polymath |  |  | https://github.com/PolymathNetwork | https://www.polymath.network/ |
-| Nxt | java | pos | https://bitbucket.org/JeanLucPicard/nxt/src | https://nxt.org/ |
+| Nxt | java |  | https://bitbucket.org/JeanLucPicard/nxt/src | https://nxt.org/ |
 | Bancor |  |  | https://github.com/bancorprotocol/ | https://bancor.network/ |
 | Emercoin |  |  | https://github.com/emercoin/ | http://emercoin.com/ |
 | MaidSafeCoin |  |  | https://github.com/maidsafe | http://maidsafe.net |
